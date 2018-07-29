@@ -17,12 +17,12 @@ deck has the same IDs as in the original deck.
 
 - **Maps and Flags v0.1**:
   [[English]](https://github.com/OnkelTem/anki-dm-countries/releases/download/v0.1/Geography__MapsFlags.apkg)
-  [[Russian]](https://github.com/OnkelTem/anki-dm-countries/releases/download/v0.1/Geography__MapsFlags_ru.apkg)
-  [[Croatian]](https://github.com/OnkelTem/anki-dm-countries/releases/download/v0.1/Geography__MapsFlags_hr.apkg)
+  [[Russian]](https://github.com/OnkelTem/anki-dm-countries/releases/download/v0.1/Geography__MapsFlags.ru.apkg)
+  [[Croatian]](https://github.com/OnkelTem/anki-dm-countries/releases/download/v0.1/Geography__MapsFlags.hr.apkg)
 - **Capitals v0.1**:
   [[English]](https://github.com/OnkelTem/anki-dm-countries/releases/download/v0.1/Geography__Capitals.apkg)
-  [[Russian]](https://github.com/OnkelTem/anki-dm-countries/releases/download/v0.1/Geography__Capitals_ru.apkg)
-  [[Croatian]](https://github.com/OnkelTem/anki-dm-countries/releases/download/v0.1/Geography__Capitals_hr.apkg)
+  [[Russian]](https://github.com/OnkelTem/anki-dm-countries/releases/download/v0.1/Geography__Capitals.ru.apkg)
+  [[Croatian]](https://github.com/OnkelTem/anki-dm-countries/releases/download/v0.1/Geography__Capitals.hr.apkg)
 
 ## About the deck origins
 
