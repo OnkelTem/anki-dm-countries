@@ -1,0 +1,22 @@
+{
+  "deck": {
+    "uuid": "62acfa00-91cf-11e8-9121-3a23c1e582f4"
+  },
+  "config": {
+    "uuid": "62acfa00-91cf-11e8-9121-3a23c1e582f4",
+    "name": "Default"
+  },
+  "model": {
+    "uuid": "62ad7890-91cf-11e8-be08-3a23c1e582f4",
+    "name": "CountryCapital"
+  },
+  "fields": [
+    "Country",
+    "Country Link",
+    "Capital",
+    "Capital Link"
+  ],
+  "templates": [
+    "CapitalToCountry"
+  ]
+}

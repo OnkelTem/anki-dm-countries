@@ -1,0 +1,23 @@
+{
+  "deck": {
+    "uuid": "6c334aa8-92c8-11e8-ae60-02422e3ce6d0"
+  },
+  "config": {
+    "uuid": "6c34e804-92c8-11e8-a108-02422e3ce6d0",
+    "name": "Default"
+  },
+  "model": {
+    "uuid": "6c34ec64-92c8-11e8-8733-02422e3ce6d0",
+    "name": "CountryMapFlag"
+  },
+  "fields": [
+    "Country",
+    "Country Link",
+    "Flag",
+    "Map"
+  ],
+  "templates": [
+    "MapToCountry",
+    "FlagToCountry"
+  ]
+}

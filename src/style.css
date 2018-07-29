@@ -1,0 +1,60 @@
+.card {
+  font-family: Helvetica, Arial, sans-serif;
+  text-align: center;
+  color: black;
+  background: white;
+}
+
+#a {
+  border-top: 1px solid gray;
+  height: 20%;
+  margin-top: 20px;
+}
+
+#q {
+  height: 80%;
+}
+
+.map {
+  height: 80%;
+}
+
+.flag {
+  height: 80%;
+}
+
+.flag img {
+  border: 1px solid silver;
+}
+
+.country {
+  font-size: 30px;
+  line-height: 30px;
+  margin: 20px 0;
+}
+
+.capital {
+  font-size: 30px;
+  line-height: 30px;
+  margin: 20px 0;
+}
+
+.link {
+  display: inline-block;
+  background: #9cf;
+  border: 1px solid #69c;
+  border-radius: 5px;
+  padding: 4px 10px;
+  font-family: monospace;
+  font-size: 26px;
+  line-height: 30px;
+  text-decoration: none;
+  color: #369;
+  font-weight: bold;
+}
+
+.link {
+  position: absolute;
+  margin-left: 10px;
+  margin-top: -4px;
+}
