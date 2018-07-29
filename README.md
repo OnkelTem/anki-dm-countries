@@ -68,7 +68,7 @@ Translated fields:
 
 - Country
 
-The Croatian country names where in the original deck so it was ported here without any changes.
+The Croatian country names were in the original deck so it was ported here without any changes.
 
 ### More languages are welcome
 
