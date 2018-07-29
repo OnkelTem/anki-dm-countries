@@ -53,7 +53,7 @@ more about a country or a city - just click the "[i]" icon.
 
 ## Translation status
 
-### Russia
+### Russian
 
 Translated fields:
 
