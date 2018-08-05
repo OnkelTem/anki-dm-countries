@@ -10,9 +10,6 @@ There are two decks in this repo:
 
 provided in 3 languages: **English** (default), **Russian** (ru) and **Croatian** (hr, not finished).
 
-If you're studying the original deck already, it should be safe to upgrade: notes in the "Maps and Flags"
-deck has the same IDs as in the original deck.
-
 ## Download
 
 - **Maps and Flags v0.1**:
